@@ -1,14 +1,17 @@
 # Helium
 
-Helium3, a derivative of Helium - the floating window browser by Jaden Geller,
-is a floating, multi-window browser that allows you to watch media, browse the
-web and do much more while you stay productive.  Your content will never fall
-behind your other windows even as you switch tasks. Helium3 supports multiple
-windows / documents with a global cache of playlists and history where each
-window / document allow customizable translucency mode to simultaneously see
-your content and your work, without intercepting mouse clicks when it's
-translucent. There are several preferences other preferences and some global
-to allow per-user customizations.
+Helium3, is a derivative of Helium - the floating window browser by Jaden Geller,
+too large for a pull request so I've forked off my contributions here.
+
+Helium3 is a floating, multi-window browser that allows you to watch media,
+browse the web and do much more while you stay productive.  Your content will
+never fall behind your other windows even as you switch tasks.
+
+Helium3 supports multiple windows / documents with a global cache of playlists
+and history where each window / document allow customizable translucency mode
+to simultaneously see your content and your work, without intercepting mouse
+clicks when it's translucent. There are several preferences other preferences
+and some global to allow per-user customizations.
 
 You have the ability to click, drag, scroll behind your floating content. 
 
